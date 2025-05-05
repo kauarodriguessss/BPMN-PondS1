@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/60ce17a2-6310-4588-b5f7-0a81461705e0)# BPMN - Ponderada S1
 
 ### Introdução ao BPMN
 
